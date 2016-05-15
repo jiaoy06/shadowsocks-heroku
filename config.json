@@ -3,7 +3,7 @@
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1091,
-  "remote_port": 80,
+  "remote_port": 443,
   "password": "alohalex",
   "timeout": 600,
   "method": "rc4-md5"
